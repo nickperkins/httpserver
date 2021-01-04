@@ -1,5 +1,7 @@
 .vscode
 
 # any locally built binaries
-httpserver
+
 game.db.json
+cmd/webserver/webserver
+cmd/cli/cli
