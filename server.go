@@ -1,4 +1,5 @@
-package main
+// Package poker is a poker service
+package poker
 
 import (
 	"encoding/json"
